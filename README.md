@@ -1,4 +1,4 @@
-# GeoVision
+# Marine Vision
 ### AI-Powered Satellite-Based Oil Spill Detection & Monitoring
 
 Marine Vision is a modern web platform designed to help users visualize, monitor, analyze, and understand potential marine oil-spill events using satellite-based intelligence. By transforming complex geospatial data into an intuitive web application, Marine Vision provides an accessible experience for tracking environmental marine events.
@@ -38,8 +38,8 @@ The **Reports** page is the dedicated hub where users can access, review, and ev
 ---
 
 ### ℹ️ About
-The **About** section offers background context and structural insight into the GeoVision project, including:
-- **Platform Overview**: Background on GeoVision and its mission.
+The **About** section offers background context and structural insight into the Marine Vision project, including:
+- **Platform Overview**: Background on Marine Vision and its mission.
 - **Project Purpose & Vision**: The motivation behind building an accessible oil-spill detection web interface.
 - **Website Concept**: The role of frontend visualization in marine intelligence.
 - **Team**: Credits and information regarding the project creators.
